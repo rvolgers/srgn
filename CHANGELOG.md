@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.3](https://github.com/alexpovel/srgn/compare/srgn-v0.10.2...srgn-v0.10.3) (2024-03-03)
+
+
+### Bug Fixes
+
+* `tmp` directory for flaky test, instead of `git restore` ([2458b34](https://github.com/alexpovel/srgn/commit/2458b34fc27400e841b328ee3ee8fed51a4cf95f))
+
 ## [0.10.2](https://github.com/alexpovel/srgn/compare/srgn-v0.10.1...srgn-v0.10.2) (2024-01-27)
 
 
